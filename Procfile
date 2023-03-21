@@ -1,0 +1,1 @@
+web: gunicorn desafio_descartes_versao_final.wsgi --log-file -
